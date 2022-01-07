@@ -1,0 +1,149 @@
+{
+  "Movies": [
+    {
+      "id": "tt0145487",
+      "title": "Spider-Man",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Spider-Man2002Poster.jpg/220px-Spider-Man2002Poster.jpg",
+      "date": 2002,
+      "likes": 100,
+      "actors": [
+        "Tobey Maguire",
+        "Willem Dafoe",
+        "Kristen Dunst",
+        "James Franco",
+        "Cliff Robertson",
+        "Rosemary Harris"
+      ]
+    },
+    {
+      "id": "tt0316654",
+      "title": "Spider-Man 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg",
+      "date": 2004,
+      "likes": 200,
+      "actors": [
+        "Tobey Maguire",
+        "Kristen Dunst",
+        "James Franco",
+        "Alfred Molina",
+        "Rosemary Harris",
+        "Donna Murpy"
+      ]
+    },
+    {
+      "id": "tt0413300",
+      "title": "Spider-Man 3",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Spider-Man_3%2C_International_Poster.jpg",
+      "date": 2007,
+      "likes": 300,
+      "actors": [
+        "Tobey Maguire",
+        "Kristen Dunst",
+        "James Franco",
+        "Thomas Haden Church",
+        "Topher Grace",
+        "Bryce Dallas Howard",
+        "James Cromwell",
+        "Rosemary Harris",
+        "J.K. Simmons"
+      ]
+    },
+    {
+      "id": "tt0948470",
+      "title": "The Amazing Spider-man",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg",
+      "date": 2012,
+      "likes": 20,
+      "actors": [
+        "Andrew Garfield",
+        "Emma Stone",
+        "Rhys Ifans",
+        "Denis Leary",
+        "Campbell Scott",
+        "Irrfan Khan",
+        "Martin Sheen",
+        "Sally Field"
+      ]
+    },
+    {
+      "id": "tt1872181",
+      "title": "The Amazing Spider-man 2",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg",
+      "date": 2014,
+      "likes": 30,
+      "actors": [
+        "Andrew Garfield",
+        "Emma Stone",
+        "Jamie Foxx",
+        "Dane DeHaan",
+        "Campbell Scott",
+        "Embeth Davidtz",
+        "Colm Feore",
+        "Paul Giamatti"
+      ]
+    },
+    {
+      "id": "tt2250912",
+      "title": "Spider-man: Homecoming",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
+      "date": 2017,
+      "likes": 150,
+      "actors": [
+        "Tom Holland",
+        "Michael Keaton",
+        "Jon Favreau",
+        "Gwyneth Paltrow",
+        "Zendaya Maree Stoermer Coleman",
+        "Donald Glover",
+        "Jacob Batalon",
+        "Laura Harrier",
+        "Tony Revolori",
+        "Bokeem Woodbine",
+        "Tyne Daly",
+        "Marisa Tomei",
+        "Robert Downey Jr."
+      ]
+    },
+    {
+      "id": "tt6320628",
+      "title": "Spider-man: Far From Home",
+      "poster": "https://i.guim.co.uk/img/media/aff9c61a560ec4dc99744b32fa3b9b56a0021f22/0_0_1215_1800/master/1215.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c63736052f2ba00cd7ed52a16312aeb7",
+      "date": 2019,
+      "likes": 175,
+      "actors": [
+        "Tom Holland",
+        "Samuel L. Jackson",
+        "Jon Favreau",
+        "Cobie Smulders",
+        "Zendaya Maree Stoermer Coleman",
+        "J.B. Smoove",
+        "Jacob Batalon",
+        "Martin Starr",
+        "Marisa Tomei",
+        "Jake Gyllenhall"
+      ]
+    },
+    {
+      "id": "tt10872600",
+      "title": "Spider-man: No Way Home",
+      "poster": "https://resizing.flixster.com/_XfboX3aAfoG8uIU7aIDNR4PCUc=/206x305/v2/https://resizing.flixster.com/EO5p56c0oqHW_7gr4QDcDwJ9x2A=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2U5NGM0Y2Q1LTAyYTItNGFjNC1hNWZhLWMzYjJjOTdjMTFhOS5qcGc=",
+      "date": 2021,
+      "likes": 1000,
+      "actors": [
+        "Tom Holland",
+        "Benedict Cumberbatch",
+        "Jon Favreau",
+        "Zendaya Maree Stoermer Coleman",
+        "Jamie Foxx",
+        "Willem Dafoe",
+        "Alfred Molina",
+        "Benedict Wong",
+        "Tony Revolori",
+        "Andrew Garfield",
+        "Tobey Maguire",
+        "Jacob Batalon",
+        "Marisa Tomei"
+      ]
+    }
+  ]
+}
