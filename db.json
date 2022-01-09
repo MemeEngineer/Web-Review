@@ -6,6 +6,7 @@
       "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Spider-Man2002Poster.jpg/220px-Spider-Man2002Poster.jpg",
       "date": 2002,
       "likes": 100,
+      "description": "Peter Parker is bitten by a Spider and given Superpowers. Has a crush on Mary Jane. Loses Uncle Ben and take it upon himself to fight crime. Fights Green Goblin who is Norman Osborn",
       "actors": [
         "Tobey Maguire",
         "Willem Dafoe",
@@ -21,6 +22,7 @@
       "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/Spider-Man_2_Poster.jpg",
       "date": 2004,
       "likes": 200,
+      "description": "Peter's life is falling apart due to being a superhero and Mary Jane is engaged to someone else. Fights Doctor Octopus (Doc Ock) who is Dr. Otto Octavius after a failed fusion experiment",
       "actors": [
         "Tobey Maguire",
         "Kristen Dunst",
@@ -36,6 +38,7 @@
       "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Spider-Man_3%2C_International_Poster.jpg",
       "date": 2007,
       "likes": 300,
+      "description": "Peter gets the girl of his dreams (Mary Jane). However, Harry Osborn finds out Peter killed his father (Norman Osborn). Putting their difference aside they team up to fight Eddie Brock embued with the powers from Venom and Flint Marko (Sandman)",
       "actors": [
         "Tobey Maguire",
         "Kristen Dunst",
@@ -54,6 +57,7 @@
       "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spider-Man_theatrical_poster.jpeg",
       "date": 2012,
       "likes": 20,
+      "description": "Bascially a rewrite of Spider-man with Andrew Garfield as Spider-man who fights Dr. Curt Connors (The Lizard), a scientist at Oscorp",
       "actors": [
         "Andrew Garfield",
         "Emma Stone",
@@ -71,6 +75,7 @@
       "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg",
       "date": 2014,
       "likes": 30,
+      "description": "Peter has a hard time finding balance between Peter Parker and Spider-man. Facing a more powerful foe this time, Electro. And the death of a loved one...",
       "actors": [
         "Andrew Garfield",
         "Emma Stone",
@@ -88,6 +93,7 @@
       "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
       "date": 2017,
       "likes": 150,
+      "description": "Peter Parker played by Tom Holland. Is taken under Tony Stark's wing and fights Vulture who has acquired technology from the Chitauri",
       "actors": [
         "Tom Holland",
         "Michael Keaton",
@@ -110,6 +116,7 @@
       "poster": "https://i.guim.co.uk/img/media/aff9c61a560ec4dc99744b32fa3b9b56a0021f22/0_0_1215_1800/master/1215.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c63736052f2ba00cd7ed52a16312aeb7",
       "date": 2019,
       "likes": 175,
+      "description": "On a school field trip to Europe. Peter is tricked into giving E.D.I.T.H to Quentin Beck (Mysterio) subsequently giving access to Stark industries technology. Spider-man's identity is also revealed to the world.",
       "actors": [
         "Tom Holland",
         "Samuel L. Jackson",
@@ -129,6 +136,7 @@
       "poster": "https://resizing.flixster.com/_XfboX3aAfoG8uIU7aIDNR4PCUc=/206x305/v2/https://resizing.flixster.com/EO5p56c0oqHW_7gr4QDcDwJ9x2A=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2U5NGM0Y2Q1LTAyYTItNGFjNC1hNWZhLWMzYjJjOTdjMTFhOS5qcGc=",
       "date": 2021,
       "likes": 1000,
+      "description": "One of the best Spider-man movies ever released. WARNING: Spoilers! Trying to undo the news of the identity of Spider-man as Peter Parker. Seeking Dr.Strange's powers to undo the news, a spell is casted breaking the fabric of the multiverse and bringing in the villians of the past. Seeking help Tobey Maguire, Andrew Garfield and Tom Holland all suit up as Spider-man to fight enemies of old.",
       "actors": [
         "Tom Holland",
         "Benedict Cumberbatch",

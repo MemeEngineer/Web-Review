@@ -9,13 +9,14 @@ import SearchBar from "./Components/SearchBar";
 import MovieInfo from "./Components/MovieInfo";
 
 function App() {
-  const [info, setInfo] = useState("");
+  
   const [movies, setMovies] = useState([]);
   const [search, setSearch] = useState("");
+  const [movieInfoDisplay, setMovieInfoDisplay] = useState();
 
   //Fetch Data from API or db.json file
   const getMovies = () => {
-    fetch("http://localhost:8005/Movies")
+    fetch(`http://localhost:8005/Movies/`)
       .then((response) => response.json())
       .then((data) => setMovies(data));
   };
@@ -39,11 +40,6 @@ function App() {
       .then((newMovie) => setMovies([...movies, newMovie]));
   };
 
-  const movieInfoDisplay = (movie) => {
-    setInfo(movie);
-    console.log(movie);
-  };
-
   return (
     <div>
       <NavBar />
@@ -63,12 +59,12 @@ function App() {
             movies={movies}
             search={search}
             uploadMovie={uploadMovie}
-            movieInfoDisplay={movieInfoDisplay}
+            setMovieInfoDisplay={setMovieInfoDisplay}
           />
         </Route>
 
         <Route exact path="/movieInfo">
-          <MovieInfo movies={movies} movieInfoDisplay={movieInfoDisplay} info={info}/>
+          <MovieInfo movieInfoDisplay={movieInfoDisplay}/>
         </Route>
 
         <Route exact path="/actors">
