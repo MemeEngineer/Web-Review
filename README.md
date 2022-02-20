@@ -4,6 +4,12 @@ Created a movie app with a Spider-man theme
 
 The app uses a db.json file and that is where we will be pulling the data from.
 
+Frontend:
+-npm start
+
+backend (db.json)
+-npm run server
+
 Requirements
 You must make a single page application (only one index.html file) using create-react-app
 Your app should use at least 5 components in a way that keeps your code well organized 
